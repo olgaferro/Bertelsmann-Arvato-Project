@@ -93,4 +93,7 @@ Arvato Bertelmann for providing the data
 
 https://hersanyagci.medium.com/feature-scaling-with-scikit-learn-for-data-science-8c4cbcf2daff
 
+workspace_utils
+https://gist.github.com/thomd/f7d8a9c0429c3bb6177237f9a67be775
+
 
