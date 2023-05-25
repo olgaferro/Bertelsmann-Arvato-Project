@@ -4,23 +4,17 @@
 # === INSTALLATION ===
 The code contained in this repository was written in Python 3, and requires the following Python packages: 
 
+seaborn
 numpy 
 pandas as pd
 matplotlib.pyplot 
 sklearn.preprocessing
-pip install xgboost
+xgboost
 
+to install:
 
+pip install "package-name"
 
-
-
-Next, you will analyze the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
-
-You will then implement the algorithms and metrics of your choice, documenting the preprocessing, refinement, and post-processing steps along the way.
-
-Afterward, you will collect results about your findings, visualize significant quantities, validate/justify your results, and make any concluding remarks about whether your implementation adequately solves the problem.
-
-You can choose to: (i) construct a blog post (or another medium for a write-up) to document all of the steps from start to finish of your project, or (ii) deploy your results into a web application.
 
 
 # === DESCRIPTION ===
