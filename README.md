@@ -25,7 +25,6 @@ You can choose to: (i) construct a blog post (or another medium for a write-up) 
 
 # === DESCRIPTION ===
 
---You will first define the problem you want to solve and investigate potential solutions.--
 In this project we are going to  individuals whose can probabilities to become a new customers to  Bertelsmann Arvato Analytics. 
 
 
@@ -58,19 +57,6 @@ MAIOUT_TEST
 With these file information about population in Germany the goal is use a model to predict which individuals are most likely to become a future customers for the company.
 
 
-#######MODIFIED===
-## 1. ETL PIPELINE PROJECT 
-
-
-Next, you will analyze the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
-
-You will then implement the algorithms and metrics of your choice, documenting the preprocessing, refinement, and post-processing steps along the way.
-
-Afterward, you will collect results about your findings, visualize significant quantities, validate/justify your results, and make any concluding remarks about whether your implementation adequately solves the problem.
-
-
-You can choose to: (i) construct a blog post (or another medium for a write-up) to document all of the steps from start to finish of your project, or (ii) deploy your results into a web application.
-
 
 
 # === FILE STRUCTURE ===
@@ -83,6 +69,21 @@ You can choose to: (i) construct a blog post (or another medium for a write-up) 
 
 
 
+
+# RESULTS
+
+
+I trained the differents classifiers with the next results:
+
+	classifier					roc_score	train_time
+3	XGBClassifier				0.76009	5.05429
+1	GradientBoostingClassifier	0.740655	26.44362
+0	AdaBoost					0.712455	5.030592
+2	Random Forest				0.60152	4.287085
+5	Decision Tree				0.511529	1.126603
+4	Nearest Neighbors			0.49322	0.64965
+
+From the table above we can conclude that the betters scores are given by XGBoost, AdaBoost and Gradient Boosting classifiers. Adaboost and Gradient are close by Ada is so fast than the Gradient.   
 
 # BLOG
 
