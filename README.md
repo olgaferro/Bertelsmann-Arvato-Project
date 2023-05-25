@@ -73,19 +73,20 @@ I trained the differents classifiers with the next results:
 
 	classifier					roc_score	train_time
     
-3	XGBClassifier				0.76009	5.05429
+3	XGBClassifier               0.76009	    5.05429
 
-1	GradientBoostingClassifier	0.740655	26.44362
+1	GradientBoostingClassifier  0.740655    26.44362
 
-0	AdaBoost					0.712455	5.030592
+0	AdaBoost                    0.712455    5.030592
 
-2	Random Forest				0.60152	4.287085
+2	Random Forest               0.60152     4.287085
 
-5	Decision Tree				0.511529	1.126603
+5	Decision Tree               0.511529    1.126603
 
-4	Nearest Neighbors			0.49322	0.64965
+4	Nearest Neighbors           0.49322     0.64965
 
-From the table above we can conclude that the betters scores are given by XGBoost, AdaBoost and Gradient Boosting classifiers. Adaboost and Gradient are close by Ada is so fast than the Gradient.   
+From the table above we can conclude that the betters scores are given by XGBoost, AdaBoost and Gradient Boosting classifiers. 
+Adaboost and Gradient are close by  Ada is so fast than the Gradient.   
 
 # BLOG
 
