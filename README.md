@@ -37,11 +37,13 @@ CUSTOMERS:        customers of a mail-order company;
 -- Files associated Demographics data for individuals who were targets of a marketing campaign
 
 MAILOUT_TRAIN
-MAIOUT_TEST 
+
+MAILOUT_TEST 
 
 --  Attributes files
 
 ./DIAS Information Levels - Attributes 2017.xlsx) is a top-level list of attributes and descriptions, organized by informational category.
+
 ./DIAS Attributes - Values 2017.xlsx:is a detailed mapping of data values for each feature in alphabetical order.
 
 
