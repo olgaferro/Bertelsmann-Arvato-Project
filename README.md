@@ -69,7 +69,7 @@ With these file information about population in Germany the goal is use a model 
 # RESULTS
 
 
-I trained the differents classifiers with the next results:
+I trained the differents classifiers with the next results, before scaling:
 
 	classifier					roc_score	train_time
     
