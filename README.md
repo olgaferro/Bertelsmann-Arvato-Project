@@ -94,9 +94,15 @@ https://datasciencecourse2.wordpress.com/2023/05/16/bertelsmann-arvato-project/
 
 ## LICENSING, AUTHORES,ACKNOWLEDGMENTS
 
-Arvato Bertelmann for providing the data
+Arvato Bertelmann for providing the data and Udacity for provide the resources to work in the project (https://www.udacity.com/)
+
+
 
 https://hersanyagci.medium.com/feature-scaling-with-scikit-learn-for-data-science-8c4cbcf2daff
+https://seaborn.pydata.org/generated/seaborn.color_palette.html
+https://stackoverflow.com/questions/62953704/valueerror-the-number-of-fixedlocator-locations-5-usually-from-a-call-to-set
+https://ipython.readthedocs.io/en/stable/interactive/reference.html#magic-command-system
+https://jupyter.org/install
 
 
 
